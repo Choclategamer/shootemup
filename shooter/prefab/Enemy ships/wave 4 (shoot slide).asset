@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 307ebb58215903840a81ce465324ed82, type: 3}
+  m_Name: wave 4 (shoot slide)
+  m_EditorClassIdentifier: 
+  <EnemiesInWave>k__BackingField:
+  - {fileID: 3464718266768223438, guid: b7e93ce1b6f93ef4d91a37afc2c9f4e4, type: 3}
+  - {fileID: 7990220701844958394, guid: 776f9ef675162024eb42bd9ccbca675d, type: 3}
+  <TimeBeforeThisWave>k__BackingField: 2
+  <NumberToSpawn>k__BackingField: 4
