@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 299507084830c19458aa10ecf2f5465c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moneyText: {instanceID: 0}
+  - waveCount: {instanceID: 0}
+  - highlightMaterial: {fileID: 2100000, guid: 7a2ed8fbc9261e64a8552da371efa28e, type: 2}
+  - defaultMaterial: {fileID: -951720642154281844, guid: afea4c7d004158c498b7ebcd4df09fd0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
